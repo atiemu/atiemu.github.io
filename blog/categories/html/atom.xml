@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog Like a Hacker]]></title>
-  <link href="http://atiemu.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Html | Blog Like a Hacker]]></title>
+  <link href="http://atiemu.github.io/blog/categories/html/atom.xml" rel="self"/>
   <link href="http://atiemu.github.io/"/>
   <updated>2017-04-18T16:27:31+08:00</updated>
   <id>http://atiemu.github.io/</id>
@@ -19,15 +19,6 @@
     <updated>2017-04-18T15:01:28+08:00</updated>
     <id>http://atiemu.github.io/blog/2017/04/18/jikexueyuan</id>
     <content type="html"><![CDATA[<h1>jikexueyuan</h1>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HELLO]]></title>
-    <link href="http://atiemu.github.io/blog/2017/04/18/hello/"/>
-    <updated>2017-04-18T15:01:28+08:00</updated>
-    <id>http://atiemu.github.io/blog/2017/04/18/hello</id>
-    <content type="html"><![CDATA[<h1>hello</h1>
 ]]></content>
   </entry>
   
