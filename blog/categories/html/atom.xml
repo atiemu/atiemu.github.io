@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Html | Blog Like a Hacker]]></title>
-  <link href="http://atiemu.github.io/blog/categories/html/atom.xml" rel="self"/>
-  <link href="http://atiemu.github.io/"/>
-  <updated>2017-04-18T16:27:31+08:00</updated>
-  <id>http://atiemu.github.io/</id>
+  <title><![CDATA[Category: html | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/html/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-18T17:00:44+08:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[atiemu]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[极客学院]]></title>
-    <link href="http://atiemu.github.io/blog/2017/04/18/jikexueyuan/"/>
+    <link href="http://yoursite.com/blog/2017/04/18/jikexueyuan/"/>
     <updated>2017-04-18T15:01:28+08:00</updated>
-    <id>http://atiemu.github.io/blog/2017/04/18/jikexueyuan</id>
+    <id>http://yoursite.com/blog/2017/04/18/jikexueyuan</id>
     <content type="html"><![CDATA[<h1>jikexueyuan</h1>
 ]]></content>
   </entry>
